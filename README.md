@@ -4,6 +4,9 @@
 
 🔗 **Демо онлайн**:  
 👉 [https://vv17-02b.github.io/my-react-project](https://vv17-02b.github.io/my-react-project)
+## Зв'язок зі мною
+Ви можете знайти мене на LinkedIn: [Vladimir Bessalov](https://www.linkedin.com/in/vladimir-bessalov-1a8b03264)
+
 
 ---
 
