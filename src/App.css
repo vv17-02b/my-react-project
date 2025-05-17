@@ -1,0 +1,25 @@
+/* Здесь будут все стили для твоего приложения */
+:root {
+    --content-width: 1440px;
+    --container-offset: 10px;
+}
+
+.container {
+
+    padding: 0 var(--container-offset);
+    max-width: var(--container-width);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: #fff;
+}
+.btn-reset {
+    border: none;
+    padding: 0;
+    background: transparent;
+    cursor: pointer;
+}
