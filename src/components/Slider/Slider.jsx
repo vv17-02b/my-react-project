@@ -7,7 +7,7 @@ const Slider = () => {
     const autoSlideRef = useRef(null);
     const touchStartX = useRef(0);
     const touchEndX = useRef(0);
-
+    635094
     const images = [
         `${process.env.PUBLIC_URL}/assets/work/1-1.jpg`,
         `${process.env.PUBLIC_URL}/assets/work/2-2.jpg`,
